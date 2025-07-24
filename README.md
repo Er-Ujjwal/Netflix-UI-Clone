@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Name : [Ujjwal Rauniyar]
+- Name : Ujjwal Rauniyar
 - Email: [theujjwal.r@gmail.com](mailto:theujjwal.r@gmail.com)
 
 ---
