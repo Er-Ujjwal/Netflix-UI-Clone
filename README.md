@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-https://github.com/Anuraj-madd/NetFlix-Using-HTML-CSS.git
+https://github.com/Er-Ujjwal/Netflix-UI-Clone.git
 ```
 
 2. Open the project in your preferred code editor.
@@ -46,8 +46,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Anuraj Maddhesiya](https://www.linkedin.com/in/anuraj-maddhesiya-34775928a/)
-- Email: [am3059435@gmail.com](mailto:am3059435@gmail.com)
+- Name : [Ujjwal Rauniyar]
+- Email: [theujjwal.r@gmail.com](mailto:theujjwal.r@gmail.com)
 
 ---
 
